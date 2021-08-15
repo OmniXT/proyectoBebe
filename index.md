@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Proyecto Bebe
+## Welcome to GitHub Pages Proyecto Perro
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
@@ -11,7 +11,7 @@
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/EZGWJvFcg/";
+    const URL = "https://teachablemachine.withgoogle.com/models/8RO3FA-fa/";
 
     let model, webcam, labelContainer, maxPredictions;
 
